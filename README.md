@@ -1,4 +1,5 @@
 # html-boilerplate
+```
 build (generate files in dist for production env):
 npx webpack
 npx webpack --config webpack.config.js
@@ -19,4 +20,5 @@ https://placekitten.com/g/200/300
 
 
 
+```
 
