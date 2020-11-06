@@ -1,6 +1,15 @@
 # html-boilerplate
+
 ```
-build (generate files in dist for production env):
+quick start
+npm install
+npm start
+
+modify dist/index.html, src/style.css, index.js
+```
+
+```
+build (generate files in "dist" dir for production env):
 npx webpack
 npx webpack --config webpack.config.js
 npm run build
@@ -9,7 +18,7 @@ serve
 python3 -m http.server 8080
 
 dev mode
-// dev mode's serve (automatically build and serve, no file generated in dist):
+// dev mode's serve (automatically build and serve, no file generated in "dist" dir):
 npm run start
 npm start
 
