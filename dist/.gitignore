@@ -1,6 +1,7 @@
 /static
 *.js
 *.map.js
+*.js.map
 
 
 
