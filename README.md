@@ -27,7 +27,8 @@ https://jsonplaceholder.typicode.com/posts
 https://rickandmortyapi.com/api/character/1
 https://placekitten.com/g/200/300
 
-
+possible later config:
+https://github.com/tsrot/react-demo
 
 ```
 
