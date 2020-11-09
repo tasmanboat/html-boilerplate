@@ -6,7 +6,7 @@ function component(){
   element.innerHTML = _.join(['Hello', 'webpack'], ' ');
   element.classList.add('hello');
 
-  // --- ES6 ---
+  // --- ES6, which is supported by default(without "jsx supported by babel" thing) by webpack ---
   const getMsg = () => "cappuccino for now, please";
   let getResult = (x, y) => x + y;
   getResult = (x, y) => x * y;
